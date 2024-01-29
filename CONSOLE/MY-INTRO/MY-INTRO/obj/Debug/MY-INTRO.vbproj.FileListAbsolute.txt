@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY-INTRO.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY_INTRO.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY-INTRO.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY-INTRO.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\bin\Debug\MY-INTRO.exe.config
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\bin\Debug\MY-INTRO.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\bin\Debug\MY-INTRO.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\bin\Debug\MY-INTRO.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY-INTRO.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY-INTRO.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\MY-INTRO\MY-INTRO\obj\Debug\MY-INTRO.pdb

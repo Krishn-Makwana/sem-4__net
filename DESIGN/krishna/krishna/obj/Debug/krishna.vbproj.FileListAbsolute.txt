@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\bin\Debug\krishna.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\bin\Debug\krishna.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\bin\Debug\krishna.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.Form1.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\krishna\krishna\obj\Debug\krishna.pdb

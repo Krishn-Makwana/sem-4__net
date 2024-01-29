@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\bin\Debug\factorial.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.Form1.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\factorial\factorial\obj\Debug\factorial.pdb

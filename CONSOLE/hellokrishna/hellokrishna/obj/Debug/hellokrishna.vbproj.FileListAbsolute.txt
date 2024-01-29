@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\bin\Debug\hellokrishna.exe.config
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\bin\Debug\hellokrishna.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\bin\Debug\hellokrishna.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\bin\Debug\hellokrishna.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\hellokrishna\hellokrishna\obj\Debug\hellokrishna.pdb

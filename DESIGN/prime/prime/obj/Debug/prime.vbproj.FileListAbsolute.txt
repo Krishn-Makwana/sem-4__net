@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\bin\Debug\prime.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\bin\Debug\prime.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\bin\Debug\prime.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.Form1.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\prime\prime\obj\Debug\prime.pdb
