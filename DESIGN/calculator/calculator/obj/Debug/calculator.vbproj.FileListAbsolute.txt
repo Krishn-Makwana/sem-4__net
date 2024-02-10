@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\calculator\calculator\obj\Debug\calculator.pdb

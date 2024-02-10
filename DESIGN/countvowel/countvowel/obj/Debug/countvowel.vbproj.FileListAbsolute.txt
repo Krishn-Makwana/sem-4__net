@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\bin\Debug\countvowel.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\bin\Debug\countvowel.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\bin\Debug\countvowel.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.Form1.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\countvowel\countvowel\obj\Debug\countvowel.pdb

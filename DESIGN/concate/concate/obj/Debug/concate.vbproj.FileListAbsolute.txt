@@ -1,0 +1,11 @@
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\bin\Debug\concate.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\bin\Debug\concate.pdb
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\bin\Debug\concate.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.vbproj.AssemblyReference.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.Form1.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.Resources.resources
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.vbproj.GenerateResource.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.vbproj.CoreCompileInputs.cache
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.exe
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.xml
+C:\Users\VBGIS\Desktop\SEM-4\.NET\DESIGN\concate\concate\obj\Debug\concate.pdb

@@ -8,8 +8,10 @@
         For i = 2 To no - 1
             If no Mod i = 0 Then
                 MessageBox.Show("Given no is not prime")
+                Return
             End If
         Next i
+
         If i = no Then
             MessageBox.Show("Given no is prime")
         End If
